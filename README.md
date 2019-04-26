@@ -1,1 +1,4 @@
 # websocket-connection
+
+
+![alt text](https://codebuild.eu-west-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiWlovZzAveCtqbHVNbU5wQWRYYlI5YUVQWkZJWGQ5UnEwZXhSMFp6M3YzcVhZRS8reGxaNmlCU0hxaTZIcFV2a3ZHR2d0ZFQ0Zys5YmFzcFBaWXllVEx3PSIsIml2UGFyYW1ldGVyU3BlYyI6InR0cXZuOHJyMlNxanRMS0oiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master "Production Build Status")
